@@ -42,3 +42,7 @@ See [main.c](./udp_perf/main/main.c) for full details.
 # More
 
 See the [README.md](../README.md) file in the upper level [examples](../) directory for more information about examples.
+
+---
+git remote add origin https://github.com/DiagSys/espPerformance.git
+git push -u origin master
