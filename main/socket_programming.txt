@@ -1,0 +1,6 @@
+https://www.codeproject.com/Articles/884583/Advanced-TCP-socket-programming-with-NET
+https://stackoverflow.com/questions/869744/how-to-write-a-scalable-tcp-ip-based-server
+https://codereview.stackexchange.com/questions/17832/implementing-a-good-tcp-socket-server
+https://github.com/Spritetm/libesphttpd/blob/master/core/httpd-freertos.c
+https://stackoverflow.com/questions/17775624/handling-sockets-in-java
+https://stackoverflow.com/questions/1877417/how-to-set-a-timer-in-android
