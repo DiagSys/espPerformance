@@ -1,0 +1,36 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	//"C_Cpp.clang_format_path": "C:/Program Files/LLVM/bin/clang-format.exe",
+	"C_Cpp.clang_format_style": "Visual Studio",
+	"C_Cpp.clang_format_formatOnSave": true,
+	"C_Cpp.intelliSenseEngine": "Tag Parser",
+	//"C_Cpp.intelliSenseEngine": "Default",
+	"[cpp]": {
+		"editor.quickSuggestions": true
+	},
+	"[c]": {
+		"editor.quickSuggestions": true
+	},
+	"editor.formatOnSave": false,
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.wordWrap": "on",
+	"files.trimTrailingWhitespace": true,
+	"files.associations": {
+		"thread": "cpp",
+		"array": "cpp",
+		"initializer_list": "cpp",
+		"utility": "cpp",
+		"system_error": "cpp",
+		"functional": "cpp",
+		"type_traits": "cpp",
+		"tuple": "cpp",
+		"can.h": "c",
+		"nvs_flash.h": "c",
+		"portmacro.h": "c",
+		"freertos.h": "c",
+		"esp_wifi.h": "c",
+		"socket.h": "c"
+	}
+}

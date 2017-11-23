@@ -1,0 +1,41 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+	{
+		"key": "f8",
+		"command": "workbench.action.tasks.build"
+	},
+	{
+		"key": "ctrl+p",
+		"command": "workbench.action.quickOpen"
+	},
+	{
+		"key": "ctrl+m ctrl+m",
+		"command": "editor.foldAll",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "shift+ctrl+c",
+		"command": "workbench.action.tasks.terminate"
+	},
+	{
+		"key": "ctrl+w",
+		"command": "workbench.action.closeActiveEditor"
+	},
+	{
+		"key": "ctrl+-",
+		"command": "workbench.action.navigateBack"
+	},
+	{
+		"key": "ctrl+shift+-",
+		"command": "workbench.action.navigateForward"
+	},
+	{
+		"key": "ctrl+shift+=",
+		"command": "workbench.action.zoomOut"
+	},
+	{
+		"key": "ctrl+m ctrl+a",
+		"command": "editor.unfoldAll",
+		"when": "editorTextFocus"
+	}
+]

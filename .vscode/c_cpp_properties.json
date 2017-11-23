@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+				"C:/esp32/esp-idf/components/",
+				"C:/esp32/esp-idf/components/esp32/include/",
+				"C:/esp32/esp-idf/components/freertos/include/",
+				"C:/esp32/esp-idf/components/log/include",
+				"C:/esp32/esp-idf/components/nvs_flash/include",
+				"C:/esp32/esp-idf/components/driver/include",
+				"C:/esp32/esp-idf/components/soc/esp32/include",
+				"C:/esp32/esp-idf/components/newlib/include",
+				"C:/esp32/esp-idf/components/tcpip_adapter/include",
+				"C:/esp32/esp-idf/components/lwip/include/lwip/*",
+                "C:/msys32/opt/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include",
+				"C:/msys32/opt/xtensa-esp32-elf/xtensa-esp32-elf/include/c++/5.2.0",
+				"${workspaceRoot}/main/drv/CAN/include/",
+				"${workspaceRoot}/build/include/"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "C:/esp32/esp-idf/components",
+                    "C:/esp32/esp-idf/components/log/include",
+                    "C:/msys32/opt/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include",
+                    "C:/msys32/opt/xtensa-esp32-elf/xtensa-esp32-elf/include/c++/5.2.0",
+                    "${workspaceRoot}"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 3
+}
